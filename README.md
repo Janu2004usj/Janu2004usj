@@ -33,7 +33,7 @@ Build impactful software solutions
 ## Connect With Me
 
 GitHub: https://github.com/Wiki05  
-LinkedIn: Add your link here  
-Email: Add if you want
+LinkedIn: https://www.linkedin.com/in/jananigunasekaran/ 
+Email: usj592004@gmail.com
 
 Thank you for visiting my profile 😊
