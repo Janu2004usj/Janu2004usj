@@ -9,7 +9,7 @@ I am a passionate developer who enjoys building real-world applications and cont
 I am interested in full stack development and open source contribution.  
 Currently preparing for Google Summer of Code 2026.  
 Focused on learning by building practical projects.  
-Interested in contributing to OpenELIS Global.
+Interested in contributing to Apache Fineract.
 
 ## Tech Stack
 
